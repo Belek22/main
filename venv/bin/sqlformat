@@ -1,4 +1,6 @@
-#!/Users/macbookpro/Documents/django/news_b4/venv/bin/python3.11
+#!/bin/sh
+'''exec' "/Users/belek/Desktop/Новая папка/news_b4/venv/bin/python3.12" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
